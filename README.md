@@ -1,4 +1,16 @@
 # FizzBuzz1
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>FizzBuzz問題</title>
+</head>
+
+<body>
+<p>
+この下にJavaScriptを使った回答を表示
+</p>
+
 <script>
 for (var i = 1; i <= 20; i++) {
   if (i % 3 == 0 && i % 5 == 0)
@@ -11,3 +23,6 @@ for (var i = 1; i <= 20; i++) {
     console.log(i);
 }
 </script>
+
+</body>
+</html>

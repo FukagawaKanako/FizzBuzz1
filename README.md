@@ -1,4 +1,5 @@
 # FizzBuzz1
+<script>
 for (var i = 1; i <= 20; i++) {
   if (i % 3 == 0 && i % 5 == 0)
     console.log("Fizz,Buzz");
@@ -9,4 +10,4 @@ for (var i = 1; i <= 20; i++) {
   else  // iが3の倍数でも5の倍数でもない
     console.log(i);
 }
-
+</script>
